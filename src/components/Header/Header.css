@@ -4,13 +4,13 @@
 
 .h-container {
   justify-content: space-between;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
   color: var(--secondary);
 }
 
 .h-menu {
-  gap: 2rem;
+  gap: 3rem;
 }
 
 .h-menu > *:hover {
