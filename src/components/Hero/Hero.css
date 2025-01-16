@@ -50,6 +50,20 @@
   outline: none;
 }
 
+.stats {
+  width: 100%;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.stat > :nth-child(1) {
+  font-size: 2rem;
+}
+
+.stat > :nth-child(1) > :last-child {
+  color: orange;
+}
+
 /* right side */
 
 .image-container {
